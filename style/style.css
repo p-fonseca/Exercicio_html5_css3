@@ -1,0 +1,77 @@
+body {
+    font: 20px Arial, sans-serif;
+    background-color: rgb(208, 198, 218);
+}
+
+.titulo {
+    background-color: rgb(82, 78, 87);
+    color: ivory;
+    font-family: pirou-regular;
+    padding-bottom: 20px;
+    padding-top: 5px;
+    padding-left: 150px;
+    text-align: left;
+}
+
+.logo {
+    padding-left: 10px;
+    padding-top: 12px;
+    float: left;
+}
+
+.menu {
+    font: 20px Arial, sans-serif;
+    font-style: oblique;
+    float: right;
+    padding-right: 10px;
+}
+
+.quem-somos {
+    text-align: center;
+}
+
+a {
+    color: ivory;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+.image {
+    border-radius: 50%;
+}
+
+.parceiros {
+    background-color: rgb(82, 78, 87);
+    color: ivory;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+.servicos {
+    background-color: rgb(208, 198, 218);
+    text-align: center;
+    padding-bottom: 350px; 
+}
+
+.footer {
+    background-color: rgb(82, 78, 87);
+    color: ivory;
+    padding-bottom: 1px;
+    padding-left: 40px;
+}
+
+.coluna-logo {
+    float: left;
+    width: 33%;
+}
+
+.coluna-foto {
+    float: left;
+    width: 33%;
+}
+
+.border {
+    border-top: double black;
+}
